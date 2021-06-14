@@ -8,3 +8,6 @@
 
 * This repository represent "*School Dress Vs. Normal Dress Classification*"
 * With the help of this project we can classifi the images of students whether they wear school uniform or non-uniform
+
+# Description 
+* 
