@@ -6,4 +6,5 @@
 
 ![Normal Dress Predict](https://user-images.githubusercontent.com/77228006/121851795-348eaf80-cd0c-11eb-8ace-1b9c63eb5368.png)
 
-* This repository represent "#School Dress Vs. Normal Dress Classification#"
+* This repository represent "*School Dress Vs. Normal Dress Classification*"
+* With the help of this project we can classifi the images of students whether they wear school uniform or non-uniform
