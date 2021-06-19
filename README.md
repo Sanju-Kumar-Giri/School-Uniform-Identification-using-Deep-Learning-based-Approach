@@ -35,4 +35,4 @@
 
 
 
-tree
+tree --dirsfirst --filelimit 20
