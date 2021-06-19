@@ -34,5 +34,3 @@
 * Vibhuti Sharma 
 
 
-
-tree --dirsfirst --filelimit 20
