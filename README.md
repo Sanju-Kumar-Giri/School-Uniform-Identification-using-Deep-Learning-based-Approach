@@ -27,7 +27,7 @@
 * (IDE): - Jupyter Notebook/ PyCharm/ Google Colab
 * Text Editor:- Atom, Notepad 
 * Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, gunicorn, Werkzeug, Jinja2, itsdangerous, MarkupSafe.
-* Framework: - TensorFlow+ Keras, Flask is a python web framework.
+* Framework: - TensorFlow+ Keras, Flask.
 * Operating System: - Windows 10/Linux/macOS
 
 # Contributer
