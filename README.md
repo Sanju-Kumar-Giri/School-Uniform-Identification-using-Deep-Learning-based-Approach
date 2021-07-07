@@ -30,12 +30,12 @@ Link: http://127.0.0.1:5000/
 ![First Page](https://user-images.githubusercontent.com/77228006/121851775-293b8400-cd0c-11eb-8445-b072d30e2043.png)
 
 # 🛠 Requirements
-**Hardware: 
+**Hardware:**
 * Minimum RAM: -4GB
 * Hard Disk: -256 GB
 * Processor:-Intel CORE i3
 
-**Software:
+**Software:**
 * Language: - Python, HTML, CSS
 * (IDE): - Jupyter Notebook/ PyCharm/ Google Colab
 * Text Editor:- Atom, Notepad 
