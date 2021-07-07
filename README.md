@@ -1,4 +1,4 @@
-# School-Dress-VS-Normal-Dress-Classification-
+# School-Dress-VS-Normal-Dress-Classification- 
 
 ![First Page](https://user-images.githubusercontent.com/77228006/121851775-293b8400-cd0c-11eb-8445-b072d30e2043.png)
 
@@ -9,7 +9,7 @@
 * This repository represent "*School Dress Vs. Normal Dress Classification*"
 * With the help of this project we can classify the images of students of KV school whether they wear school uniform or non-uniform
 
-# Description 
+📝# Description 
 * We have build this project on the foundations of Convolutional Neural Networking.
 * Used HTML to create a website and CSS to style the website and Flask API to deploy and predict whether the given image is uniform or non-uniform.
 
