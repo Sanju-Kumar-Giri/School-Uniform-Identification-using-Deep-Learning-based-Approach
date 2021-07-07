@@ -1,4 +1,4 @@
-# School-Dress-VS-Normal-Dress-Classification- 
+# 🥋👘👕🥻👗 School-Dress-VS-Normal-Dress-Classification- 
 
 ![First Page](https://user-images.githubusercontent.com/77228006/121851775-293b8400-cd0c-11eb-8445-b072d30e2043.png)
 
@@ -13,29 +13,29 @@
 * We have build this project on the foundations of Convolutional Neural Networking.
 * Used HTML to create a website and CSS to style the website and Flask API to deploy and predict whether the given image is uniform or non-uniform.
 
-# Dataset
+# ⏳ Dataset
 * https://drive.google.com/drive/folders/1y80ceYx_HTbUmCc1aeszC275qZMd4LD3?usp=sharing
 
-# Motivation 
+# 💪 Motivation 
 I started to learn Data science to explore my carrier in Data world. I learned different methodologies and tools to achieve and solve real world problems. Finally it is important to work on application (real world application) to actually make a difference.
 
-# Installation
+# 📀 Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 pip install -r requirements.txt
 
-# Demo
+# 📊 Demo
 Link: http://127.0.0.1:5000/
 
 ![First Page](https://user-images.githubusercontent.com/77228006/121851775-293b8400-cd0c-11eb-8445-b072d30e2043.png)
 
-# Requirements
-*Hardware: 
+# 🛠 Requirements
+**Hardware: 
 * Minimum RAM: -4GB
 * Hard Disk: -256 GB
 * Processor:-Intel CORE i3
 
-*Software:
+**Software:
 * Language: - Python, HTML, CSS
 * (IDE): - Jupyter Notebook/ PyCharm/ Google Colab
 * Text Editor:- Atom, Notepad 
@@ -43,7 +43,7 @@ Link: http://127.0.0.1:5000/
 * Framework: - TensorFlow+ Keras, Flask.
 * Operating System: - Windows 10/Linux/macOS
 
-# Contributer
+# Contributer 👩‍💻
 * Vibhuti Sharma 
 
 
