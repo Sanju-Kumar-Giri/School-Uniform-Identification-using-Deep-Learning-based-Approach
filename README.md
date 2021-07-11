@@ -43,7 +43,7 @@ Link: http://127.0.0.1:5000/
 * Framework: - TensorFlow+ Keras, Flask.
 * Operating System: - Windows 10/Linux/macOS
 
-# Contributer 👩‍💻
+# Other Contributer 👩‍💻
 * Vibhuti Sharma 
 
 
