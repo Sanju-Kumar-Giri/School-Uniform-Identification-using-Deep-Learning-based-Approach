@@ -1,4 +1,4 @@
-# 🥋👘👕🥻👗 School-Dress-VS-Normal-Dress-Classification- 
+# 🥋👘👕🥻👗 School Uniform (i.e. Kendriya Vidyalaya Uniform) Detection Using Deep Learning 
 
 ![First Page](https://user-images.githubusercontent.com/77228006/121851775-293b8400-cd0c-11eb-8445-b072d30e2043.png)
 
