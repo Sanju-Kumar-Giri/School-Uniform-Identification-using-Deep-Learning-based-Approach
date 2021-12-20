@@ -39,9 +39,9 @@ Link: http://127.0.0.1:5000/
 * Language: - Python, HTML, CSS
 * (IDE): - Jupyter Notebook/ PyCharm/ Google Colab
 * Text Editor:- Atom, Notepad 
-* Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, gunicorn, Werkzeug, Jinja2, itsdangerous, MarkupSafe.
+* Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, beautiful soup.
 * Framework: - TensorFlow+ Keras, Flask.
-* Operating System: - Windows 10/Linux/macOS
+
 
 # Other Contributer 👩‍💻
 * Vibhuti Sharma 
