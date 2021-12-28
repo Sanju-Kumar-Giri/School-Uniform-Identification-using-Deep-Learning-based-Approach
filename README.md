@@ -37,7 +37,7 @@ Link: http://127.0.0.1:5000/
 
 **Software:**
 * Language: - Python, HTML, CSS
-* (IDE): - Jupyter Notebook/ PyCharm/ Google Colab
+* (IDE): - Google Colab
 * Text Editor:- Atom, Notepad 
 * Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, beautiful soup.
 * Framework: - TensorFlow+ Keras, Flask.
