@@ -10,7 +10,7 @@
 * With the help of this project we can classify the images of students of KV school whether they wear school uniform or non-uniform
 
 # 📝 Description 
-* We have build this project on the foundations of Convolutional Neural Networking.
+* We have build this project on the foundations of Convolutional Neural Networking and Used SURF/SIFT algorithm to extract features.
 * Used HTML to create a website and CSS to style the website and Flask API to deploy and predict whether the given image is uniform or non-uniform.
 
 # ⏳ Dataset
