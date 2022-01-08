@@ -36,11 +36,12 @@ Link: http://127.0.0.1:5000/
 * Processor:-Intel CORE i3
 
 **Software:**
-* Language: - Python, HTML, CSS
-* (IDE): - Google Colab
+* Language:- Python, HTML, CSS
+* (IDE):- Google Colab
 * Text Editor:- Atom, Notepad 
-* Libraries used: - NumPy, Keras, Matplotlib, Pandas, Sklearn, beautiful soup.
-* Framework: - TensorFlow+ Keras, Flask.
+* Libraries used:- NumPy, Keras, Matplotlib, Pandas, Sklearn, beautiful soup.
+* Framework:- TensorFlow+ Keras, Flask.
+* Algorithm:- SIFT/SURF, CNN
 
 
 # Other Contributer 👩‍💻
