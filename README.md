@@ -45,6 +45,8 @@ Link: http://127.0.0.1:5000/
 
 
 # Other Contributer 👩‍💻
-* Vibhuti Sharma 
+* Vibhuti Sharma
+
+# Paper Link: https://doi.org/10.1007/978-981-19-5090-2_31
 
 
