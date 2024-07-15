@@ -6,6 +6,9 @@
 
 ![Normal Dress Predict](https://user-images.githubusercontent.com/77228006/121851795-348eaf80-cd0c-11eb-8ace-1b9c63eb5368.png)
 
+![plot](https://github.com/user-attachments/assets/71e7b1d6-2aed-48fb-9558-735eb809daec)
+
+
 * This repository represent "*School Dress Vs. Normal Dress Classification*"
 * With the help of this project we can classify the images of students of KV school whether they wear school uniform or non-uniform
 
